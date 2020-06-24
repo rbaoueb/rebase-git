@@ -3,7 +3,7 @@ package bowling;
 public class BlockShot
 {
 
-	private int					scoreFirstShot;
+	private int						scoreFirstShot;
 	private int					scoreSecondShot;
 	private static final int	STRIKE_SCORE	= 10;
 
